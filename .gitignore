@@ -1,0 +1,7 @@
+venv
+.vscode
+theZdb/movies/__pycache__
+theZdb/movies/migrations
+theZdb/rest_api/__pycache__
+theZdb/rest_api/migrations
+theZdb/theZdb/__pycache__
